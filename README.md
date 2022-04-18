@@ -1,3 +1,9 @@
+
+
+![proposals](https://user-images.githubusercontent.com/77759462/163754983-359d6a00-4d53-4e32-96a9-5c23260c1cf7.png)
+![createproposal](https://user-images.githubusercontent.com/77759462/163754988-9b7c915b-8798-47c5-a891-7f63cce25b98.png)
+
+
 # DAO-Dapp-Decentralized-Autonomous-Organization-
 This repo is about how to manage a DAO where holders of a NFT can vote for proposals ( in our case the proposal is purchasing an NFT from a fake NFT Marketplace). 
 
